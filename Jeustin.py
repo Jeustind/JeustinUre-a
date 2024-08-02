@@ -1,0 +1,27 @@
+#Suma Variable Int
+n1 = '14'
+n2 = '16'
+print(int(n1) + int(n2))
+#Suma Variable Float
+n3 = '6'
+n4 = '12'
+print(float(n3) + float(n4))
+#Suma Variable Complex
+print(5 + 7)
+print(complex(5, 7))
+#Multiplicación Variable Int 
+n5 = "16"
+n6 =  "3"
+print(int(n5) * int(n6))
+#Multiplicación Variable Float
+n7 = "23"
+n8 = "2"
+print(float(n7) * float(n8))
+#División Variable Int
+n9 = "45"
+n10 = "9"
+print(int(n9) / int(n10))
+#División Variable Float
+n11 = "45"
+n12 = "4"
+print(float(n11) / float(n12))
